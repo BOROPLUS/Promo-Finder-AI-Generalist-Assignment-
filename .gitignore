@@ -1,0 +1,7 @@
+# Kuku's episode files are private: never upload them
+episodes/*
+!episodes/.gitkeep
+# secrets and junk
+.env
+*.key
+__pycache__/
